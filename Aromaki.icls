@@ -1,9 +1,9 @@
-<scheme name="Aromaki" version="1" parent_scheme="Default">
+<scheme name="Aromaki" version="2" parent_scheme="Default">
   <metaInfo>
-    <property name="created">۲۰۱۹-۱۱-۰۵T۱۱:۴۰:۳۱</property>
+    <property name="created">۲۰۱۹-۱۱-۰۵T۱۲:۰۵:۰۵</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">۲۰۱۹-۱۱-۰۵T۱۱:۴۰:۳۱</property>
+    <property name="modified">۲۰۱۹-۱۱-۰۵T۱۲:۰۵:۱۷</property>
     <property name="originalScheme">Aromaki</property>
   </metaInfo>
   <colors>
@@ -849,6 +849,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="e58721" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
